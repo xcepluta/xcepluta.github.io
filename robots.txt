@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://xcepluta.github.io/sitemap.html.gz
+Sitemap: https://xcepluta.github.io/app/sitemap.html.gz
+Sitemap: https://xcepluta.github.io/assets/sitemap.html.gz
+Sitemap: https://xcepluta.github.io/css/sitemap.html.gz
+Sitemap: https://xcepluta.github.io/includes/sitemap.html.gz
+Sitemap: https://xcepluta.github.io/item/sitemap.html.gz
+Sitemap: https://xcepluta.github.io/src/sitemap.html.gz
